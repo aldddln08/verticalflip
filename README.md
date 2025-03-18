@@ -13,8 +13,8 @@ To run the files, the following are needed to be set up first:
 Results of the output are as follows:
 
 Pixel flipping:
-![vertical](images/working.png)
+![vertical](images/working.jpg)
 
 
 Image flipping:
-![imageflip](images/working_bonus.png)
+![imageflip](images/working_bonus.jpg)
